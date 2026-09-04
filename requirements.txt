@@ -1,0 +1,7 @@
+# Compatible direct dependencies for the public CoGameReg benchmark.
+# Use requirements-lock.txt for comparison with the reference results.
+numpy>=2.2,<3
+pandas>=2.3,<3
+scipy>=1.15,<2
+scikit-learn>=1.7,<2
+xgboost>=3.2,<4

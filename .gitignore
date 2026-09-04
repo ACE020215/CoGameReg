@@ -1,0 +1,31 @@
+# Operating-system and editor files
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode/
+.idea/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local configuration and credentials
+.env
+.env.*
+
+# Generated outputs and logs
+*.log
+outputs/
+results/raw/
+
+# Third-party benchmark data are downloaded by each user.
+data/*
+!data/README.md
+!data/SHA256SUMS
