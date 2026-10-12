@@ -1,5 +1,7 @@
 # CoGameReg
 
+[Paper: arXiv:2610.12884](https://arxiv.org/abs/2610.12884) | [PDF](https://arxiv.org/pdf/2610.12884)
+
 Official implementation of **CoGameReg**, a cooperative game-guided
 semi-supervised regression method. This repository provides the core algorithm
 and the benchmark entry point used to reproduce the CoGameReg results reported
@@ -151,8 +153,20 @@ e1882a1b848e8dfa6983dc5dfc0d192e94292ba395a34eb45d2325c1f221d100  run_benchmark.
 
 ## Citation
 
-The formal paper citation and archival DOI will be added when the manuscript or
-preprint record becomes publicly available.
+## Citation
+
+If you use CoGameReg in your research, please cite:
+
+```bibtex
+@misc{guo2026cogamereg,
+  title = {{CoGameReg}: Cooperative-Game-Based Collaborative Semi-Supervised Regression for Seismic Reservoir Property Prediction},
+  author = {Zhiyu Guo and Jiwei Jia and Lei Li},
+  year = {2026},
+  eprint = {2610.12884},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12884}
+}
+```
 
 ## License and third-party material
 
