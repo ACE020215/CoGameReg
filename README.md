@@ -153,8 +153,6 @@ e1882a1b848e8dfa6983dc5dfc0d192e94292ba395a34eb45d2325c1f221d100  run_benchmark.
 
 ## Citation
 
-## Citation
-
 If you use CoGameReg in your research, please cite:
 
 ```bibtex
